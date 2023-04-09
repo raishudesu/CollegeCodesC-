@@ -1,0 +1,15 @@
+C:\Users\bacal\source\repos\CALCULATOR\CALCULATOR\bin\Debug\net6.0\CALCULATOR.exe
+C:\Users\bacal\source\repos\CALCULATOR\CALCULATOR\bin\Debug\net6.0\CALCULATOR.deps.json
+C:\Users\bacal\source\repos\CALCULATOR\CALCULATOR\bin\Debug\net6.0\CALCULATOR.runtimeconfig.json
+C:\Users\bacal\source\repos\CALCULATOR\CALCULATOR\bin\Debug\net6.0\CALCULATOR.dll
+C:\Users\bacal\source\repos\CALCULATOR\CALCULATOR\bin\Debug\net6.0\CALCULATOR.pdb
+C:\Users\bacal\source\repos\CALCULATOR\CALCULATOR\obj\Debug\net6.0\CALCULATOR.csproj.AssemblyReference.cache
+C:\Users\bacal\source\repos\CALCULATOR\CALCULATOR\obj\Debug\net6.0\CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bacal\source\repos\CALCULATOR\CALCULATOR\obj\Debug\net6.0\CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\bacal\source\repos\CALCULATOR\CALCULATOR\obj\Debug\net6.0\CALCULATOR.AssemblyInfo.cs
+C:\Users\bacal\source\repos\CALCULATOR\CALCULATOR\obj\Debug\net6.0\CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\bacal\source\repos\CALCULATOR\CALCULATOR\obj\Debug\net6.0\CALCULATOR.dll
+C:\Users\bacal\source\repos\CALCULATOR\CALCULATOR\obj\Debug\net6.0\refint\CALCULATOR.dll
+C:\Users\bacal\source\repos\CALCULATOR\CALCULATOR\obj\Debug\net6.0\CALCULATOR.pdb
+C:\Users\bacal\source\repos\CALCULATOR\CALCULATOR\obj\Debug\net6.0\CALCULATOR.genruntimeconfig.cache
+C:\Users\bacal\source\repos\CALCULATOR\CALCULATOR\obj\Debug\net6.0\ref\CALCULATOR.dll

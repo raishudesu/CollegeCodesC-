@@ -1,0 +1,11 @@
+C:\Users\bacal\source\repos\CALCULATORFORM\CALCULATORFORM\bin\Debug\CALCULATORFORM.exe.config
+C:\Users\bacal\source\repos\CALCULATORFORM\CALCULATORFORM\bin\Debug\CALCULATORFORM.exe
+C:\Users\bacal\source\repos\CALCULATORFORM\CALCULATORFORM\bin\Debug\CALCULATORFORM.pdb
+C:\Users\bacal\source\repos\CALCULATORFORM\CALCULATORFORM\obj\Debug\CALCULATORFORM.csproj.AssemblyReference.cache
+C:\Users\bacal\source\repos\CALCULATORFORM\CALCULATORFORM\obj\Debug\CALCULATORFORM.csproj.SuggestedBindingRedirects.cache
+C:\Users\bacal\source\repos\CALCULATORFORM\CALCULATORFORM\obj\Debug\CALCULATORFORM.CACULATOR.resources
+C:\Users\bacal\source\repos\CALCULATORFORM\CALCULATORFORM\obj\Debug\CALCULATORFORM.Properties.Resources.resources
+C:\Users\bacal\source\repos\CALCULATORFORM\CALCULATORFORM\obj\Debug\CALCULATORFORM.csproj.GenerateResource.cache
+C:\Users\bacal\source\repos\CALCULATORFORM\CALCULATORFORM\obj\Debug\CALCULATORFORM.csproj.CoreCompileInputs.cache
+C:\Users\bacal\source\repos\CALCULATORFORM\CALCULATORFORM\obj\Debug\CALCULATORFORM.exe
+C:\Users\bacal\source\repos\CALCULATORFORM\CALCULATORFORM\obj\Debug\CALCULATORFORM.pdb
