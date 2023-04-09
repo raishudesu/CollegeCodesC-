@@ -1,0 +1,15 @@
+C:\Users\bacal\source\repos\LUCKY9\lucky9methods\bin\Debug\net6.0\lucky9methods.exe
+C:\Users\bacal\source\repos\LUCKY9\lucky9methods\bin\Debug\net6.0\lucky9methods.deps.json
+C:\Users\bacal\source\repos\LUCKY9\lucky9methods\bin\Debug\net6.0\lucky9methods.runtimeconfig.json
+C:\Users\bacal\source\repos\LUCKY9\lucky9methods\bin\Debug\net6.0\lucky9methods.dll
+C:\Users\bacal\source\repos\LUCKY9\lucky9methods\bin\Debug\net6.0\lucky9methods.pdb
+C:\Users\bacal\source\repos\LUCKY9\lucky9methods\obj\Debug\net6.0\lucky9methods.csproj.AssemblyReference.cache
+C:\Users\bacal\source\repos\LUCKY9\lucky9methods\obj\Debug\net6.0\lucky9methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bacal\source\repos\LUCKY9\lucky9methods\obj\Debug\net6.0\lucky9methods.AssemblyInfoInputs.cache
+C:\Users\bacal\source\repos\LUCKY9\lucky9methods\obj\Debug\net6.0\lucky9methods.AssemblyInfo.cs
+C:\Users\bacal\source\repos\LUCKY9\lucky9methods\obj\Debug\net6.0\lucky9methods.csproj.CoreCompileInputs.cache
+C:\Users\bacal\source\repos\LUCKY9\lucky9methods\obj\Debug\net6.0\lucky9methods.dll
+C:\Users\bacal\source\repos\LUCKY9\lucky9methods\obj\Debug\net6.0\refint\lucky9methods.dll
+C:\Users\bacal\source\repos\LUCKY9\lucky9methods\obj\Debug\net6.0\lucky9methods.pdb
+C:\Users\bacal\source\repos\LUCKY9\lucky9methods\obj\Debug\net6.0\lucky9methods.genruntimeconfig.cache
+C:\Users\bacal\source\repos\LUCKY9\lucky9methods\obj\Debug\net6.0\ref\lucky9methods.dll

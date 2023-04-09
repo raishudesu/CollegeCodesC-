@@ -1,0 +1,15 @@
+C:\Users\bacal\source\repos\LUCKY9\LUCKY9\bin\Debug\net6.0\LUCKY9.exe
+C:\Users\bacal\source\repos\LUCKY9\LUCKY9\bin\Debug\net6.0\LUCKY9.deps.json
+C:\Users\bacal\source\repos\LUCKY9\LUCKY9\bin\Debug\net6.0\LUCKY9.runtimeconfig.json
+C:\Users\bacal\source\repos\LUCKY9\LUCKY9\bin\Debug\net6.0\LUCKY9.dll
+C:\Users\bacal\source\repos\LUCKY9\LUCKY9\bin\Debug\net6.0\LUCKY9.pdb
+C:\Users\bacal\source\repos\LUCKY9\LUCKY9\obj\Debug\net6.0\LUCKY9.csproj.AssemblyReference.cache
+C:\Users\bacal\source\repos\LUCKY9\LUCKY9\obj\Debug\net6.0\LUCKY9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bacal\source\repos\LUCKY9\LUCKY9\obj\Debug\net6.0\LUCKY9.AssemblyInfoInputs.cache
+C:\Users\bacal\source\repos\LUCKY9\LUCKY9\obj\Debug\net6.0\LUCKY9.AssemblyInfo.cs
+C:\Users\bacal\source\repos\LUCKY9\LUCKY9\obj\Debug\net6.0\LUCKY9.csproj.CoreCompileInputs.cache
+C:\Users\bacal\source\repos\LUCKY9\LUCKY9\obj\Debug\net6.0\LUCKY9.dll
+C:\Users\bacal\source\repos\LUCKY9\LUCKY9\obj\Debug\net6.0\refint\LUCKY9.dll
+C:\Users\bacal\source\repos\LUCKY9\LUCKY9\obj\Debug\net6.0\LUCKY9.pdb
+C:\Users\bacal\source\repos\LUCKY9\LUCKY9\obj\Debug\net6.0\LUCKY9.genruntimeconfig.cache
+C:\Users\bacal\source\repos\LUCKY9\LUCKY9\obj\Debug\net6.0\ref\LUCKY9.dll
